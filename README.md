@@ -7,7 +7,7 @@ You just need to provide a Name, Current Progress, Goal, Unit.
 ### Delete courses
 Delete the course you want by typing its ID.
 ### Change 'Tracking Mode'
-You can alter between seeing you progress as a 'Percentage' or as 'Stars'.
+You can alter between seeing your progress as a 'Percentage' or as 'Stars'.
 - Example: %90 or ★★★★☆
 - Another example: %45 or ★★☆☆☆
 
