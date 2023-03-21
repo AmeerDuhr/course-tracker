@@ -70,7 +70,6 @@ while True:
 
                 if "★" in tracking or "☆" in tracking: tracking = "Stars"
                 elif "%" in tracking: tracking = "Percent"
-                else: tracking = "Undefined"
 
                 main.Courses().editCourse(name, current, goal, unit, tracking,
                                           table_courses[index][-1])
