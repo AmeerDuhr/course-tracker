@@ -1,6 +1,9 @@
 # course-tracker
 Track you personal courses or learning, using a unit of your choice.
 
+![image](./App0.png)
+![image](./App1.png)
+
 To execute, run the 'sg.py' file. (Make sure you have PySimpleGUI installed as well)
 
 ```console
