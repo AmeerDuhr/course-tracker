@@ -1,5 +1,12 @@
 # course-tracker
 Track you personal courses or learning, using a unit of your choice.
+
+To execute, run the 'sg.py' file. (Make sure you have PySimpleGUI installed as well)
+
+```console
+pip install PySimpleGUI
+python3 ./sg.py
+```
 ### Edit courses
 By leaving any field empty, it will remain as the old one.
 ### Add courses
